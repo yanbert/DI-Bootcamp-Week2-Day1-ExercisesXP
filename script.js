@@ -13,7 +13,7 @@
     const myWatchedSeries =["black mirror", "money heist", "the big bang theory"];
     myWatchedSeries[2]="and the big bang theory";
     let myWatchedSeriesLength=myWatchedSeries.length;
-    myWatchedSeriesSentence=myWatchedSeries.join(', ').toString();
+    myWatchedSeriesSentence=myWatchedSeries.join(', ');
     console.log("I watched "+myWatchedSeriesLength+" series : "+myWatchedSeriesSentence);
 
     //PART II
