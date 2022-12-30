@@ -6,7 +6,13 @@
     console.log("I eat "+FavoriteFood+" at every "+FavoriteMeal);
 
 
+/****************************************************
+Correcteur: Yannick GOUGUIA
 
+Il faut bien documenter et formater ton code.
+code tres illisible, pas d'espace apres les =
+
+****************************************************/
 //Exercise 2 : Series
 
     //Part I
